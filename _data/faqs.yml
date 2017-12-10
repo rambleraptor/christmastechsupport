@@ -1,0 +1,26 @@
+- question: Who is this site meant for?
+  answer: |
+    This site is meant for people who are going to be playing tech support for
+    their relatives over the holidays. These are some of the things you could be
+    doing to make their cyber lives more secure. Your relatives probably won't
+    ask you to help set any of this up, so you should bring it up yourselves!
+- question: Why aren't you talking about speeding up computers?
+  answer: |
+    You can Google that stuff. You might not know how to Google all of these
+    security topics because you don't necessarily know the buzzwords.
+- question: There's a more secure way!
+  answer: |
+    The most secure thing you could do is live in an underground bunker surrounded
+    by a Faraday cage while living off the land.
+    
+    I personally think there's a trade-off between security and usability. My goal
+    is to get people from 10% secure to 80% in ways that they'll actually follow. A
+    secure system that everybody ignores is less secure than a mostly secure system
+    that nobody uses.
+- question: Why didn't you mention doing this other thing?
+  answer: |
+    Please make a PR and submit your idea.
+- question: What if I don't celebrate Christmas?
+  answer: |
+    There's a war on Christmas and a war on Cyber. I can only fight so many wars at
+    once.
