@@ -3,33 +3,41 @@ layout: page
 title: Two Factor Authentication
 time: 1 hour
 ---
-A regular account only requires one factor to login. (a password). If somebody
-had your password, they could log into your account.
+Imagine somebody steals your bank password. It can sadly be easier than you'd
+like. They could get it from a data breach or phish you (trick you into typing
+it into a website that looks like your bank, but isn't). How could you stop
+them from logging into your bank and taking your money?
 
-Passwords can be stolen relatively easily. To combat this, many services
-support two factor authentication.
+Enter two-factor authentication (also called multi-factor, multi-step, etc,
+etc). Accounts with two factor authentication require two things to login:
+something you know (a password) and something you have (your phone). A hacker
+would have to steal your cell phone from you and get your password to get into
+your bank.
 
-Accounts with two factor authentication require two things to login: something
-you know (a password) and something you have (your phone). It should be much
-harder for a hacker to physically steal your phone from you.
-## Long Explanation
-Two factor (or multi-factor) authentication is the practice of receiving a code
-from somewhere and entering it when trying to login. This can come in many
-forms.
+# Wait, so what's two-factor authentication?
+Two-factor authentication is the practice of getting a one-time use code from
+some physical thing you own (your phone). Every time you log in, you need a
+different code. The only place to get this code from one your second-factor
+(your phone), which is making up new codes every thirty seconds. This means
+that a hacker would need to steal your phone or else he/she could never know
+the code to log into your account.
 
-* SMS. A website will text you a code that must be entered online to login.
-  This isn't ideal. It's very much a last resort. SMS is horribly insecure
-  (see: SS7). Assume that anything you send over text could become public
-  information. That being said, it's better than nothing! Use it as a last
-  resort.
+## Types of Two Factor
+There's a bunch of different ways you can use two-factor. You've hopefully done
+one of these before.
+
+* Text message. A website will text you a code that must be entered online to
+  login.  This isn't ideal. It's very much a last resort. SMS isn't very
+  secure That being said, *it's better than nothing!* Not very secure is way,
+  way better than not secure at all. Use it as a last resort.
 
 * Email. A website will email you a code that must be entered online to login.
   This is getting better. Still try to avoid this if at all possible.
 
-* App. This is your best bet.. There's a lot of apps out there that support this
-  kind of two factor authentication (Duo, Authy, Google Authenticator). You can
-  use any of them - it doesn't matter. When you want to login to a site, you'll
-  open the app and get a code. Using an app is much more secure than the past two options.
+* Mobile App. This is your best bet! It's convenient, widely supported, and
+  pretty easy to setup. I'd recommend using either Authy ([Android][authy-android], [iOS][authy-ios]) or Google
+  Authenticator([Android][googleauth-android], [iOS][googleauth-ios]). The biggest difference is that Authy will
+  work on multiple devices at the same time and Google Authenticator won't.
 
 * Security Key. This is the best option, but it doesn't work well on mobile.
   You can buy a U2F key (kind of like a flash drive) that will automatically
@@ -39,8 +47,8 @@ forms.
   flaw. That being said, very few sites support security keys.
 
 ## Setting Up
-1. Come up with a list of every digital account that your relatives have. At
-   the very least, this list should have the following:
+1. Come up with a list of every online account that you have. At the very
+   least, this list should have the following:
    * Email account
    * Facebook
    * Twitter
@@ -48,28 +56,45 @@ forms.
    * Checking account
    * Investment accounts
    * Cell phone
-2. Download an app to use with your two-factor accounts. You can do some
-   research, but they all act the same. If you want cloud backups, use Authy.
-   (Some people will tell you that cloud backups defeat the purpose of 2FA.
-   That's partially true. You assume more risk, but it's easier. Make the
-   judgement call yourself).
+
+     Need some ideas? Visit this [website][twofactorlist] for a
+     great list of all the websites that support two-factor authentication.
+
+2. Download an app to use with your two-factor accounts.
 3. Now comes the fun part! You'll have to enable 2FA on every account. This
    differs greatly on every site, so here's the instructions for many popular
-   sites. Remember - you'll want to use App based 2FA if at all possible.
-Google
-Facebook
-Twitter
-LinkedIn
-Chase
+   sites. Remember - you'll want to use App based 2FA if at all possible. If
+   you can't figure out how to turn on two-factor auth, just google 'website
+   2fa'. You'll figure out pretty quickly if a website allows two-factor
+   authentication
 
-4. Everytime you get a QR Code, take a snapshot of it and save it in a special folder. These are your backups. If you need to add a new device, you'll need to reinput all of these QR codes into your new device. Store these QR codes in a very secure place. Printing them out and storing them in a vault would be ideal.
+   * [Google][google]
+   * [Facebook][facebook]
+   * [Twitter][twitter]
+   * [LinkedIn][linkedin]
 
-## Teaching
-* Try logging into a 2FA account.
+4. Try logging into your account just to make sure everything's working.
+   Remember - you'll need to have your phone charged and by your side.
 
-## Avoiding Problems
+## Warnings!
+* If you're worried about setting this up, try making a fake Gmail account and
+  setting up two-factor authentication on that. It's a great way to convince
+  yourself that you won't accidentally lock yourself out of your accounts
+  accidentally.
+
 * You should have a way of backing up your second factor. If your relative
   loses their phone (or gets a new one!), they should be able to get all of
   their two factor accounts working on the new phone quickly. I recommend
-  keeping a backup of all of the two factor seed values or using a
+  keeping a backup of all of the two factor seed values (those QR codes) or using a
   second-factor app that supports backups (like Authy).
+
+[twofactorlist]: https://twofactorauth.org/
+[authy-android]: https://play.google.com/store/apps/details?id=com.authy.authy
+[authy-ios]: https://itunes.apple.com/us/app/authy/id494168017
+[googleauth-android]: https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en
+[googleauth-ios]: https://itunes.apple.com/us/app/google-authenticator/id388497605?mt=8
+
+[google]: https://www.google.com/landing/2step/index.html
+[facebook]: https://www.facebook.com/help/148233965247823
+[twitter]: https://help.twitter.com/en/managing-your-account/two-factor-authentication
+[linkedin]: https://www.linkedin.com/help/linkedin/answer/544/turning-two-step-verification-on-and-off?lang=en
