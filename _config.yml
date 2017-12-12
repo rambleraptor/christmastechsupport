@@ -25,3 +25,5 @@ collections:
   steps:
     output: true
     permalink: /steps/:path/
+
+analytics_id: UA-111119578-1
