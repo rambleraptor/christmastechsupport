@@ -4,3 +4,5 @@ Christmas Tech Support is a website designed to help people solve basic computer
 ## License
 
 Open sourced under the [MIT license](LICENSE.md).
+
+Special thanks to mozilla/fxemoji for the favicon
