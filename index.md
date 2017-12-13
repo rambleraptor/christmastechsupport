@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Home
 ---
 <div markdown="1" class="container content">
 # Techies, Millennials, Ladies and Gentlemen of the Internet
