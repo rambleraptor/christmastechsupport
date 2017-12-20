@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Software Updates
+title: Turn on Software Updates
 time: 5 minutes
 ---
 The biggest thing you can do is to update the software on all of your devices.

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Use Different Passwords
+title: Make sure your passwords are different
 time: 1 hour
 ---
 Let's say you use the same password on every single website. Let's be real -

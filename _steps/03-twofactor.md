@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Two Factor Authentication
+title: Enable Two Factor Authentication on Websites
 time: 1 hour
 ---
 Imagine somebody steals your bank password. It can sadly be easier than you'd

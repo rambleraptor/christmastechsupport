@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Browsers
+title: Update to a Modern Browser
 time: 10 minutes
 ---
 Older browsers are a mess. They're insecure and they don't work well with

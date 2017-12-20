@@ -19,7 +19,7 @@ challenging and there's explanations for why it's important.
 </div>
 
 <div class="hero">
-  <h1>Steps</h1>
+  <h1>Steps To Take</h1>
 </div>
 
 <div class="container content">
