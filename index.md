@@ -3,23 +3,16 @@ layout: home
 title: Home
 ---
 <div markdown="1" class="container content">
-**The stockings have been stuffed**
+> **The stockings have been stuffed <br />**
+> **the morning is near <br />**
+> **suddenly something washes over you <br />**
+> **uncertainty, fear. <br />**
+> **You've got these new smart devices, consoles, and more. <br />**
+> **Pray setting up these new smart devices won't be a chore. <br />**
+> **Dangers of security, but you can relax, <br />**
+> **I'll make sure you make it through the morning, I've got your backs. <br />**
 
-**the morning is near**
-
-**suddenly something washes over you**
-
-**uncertainty, fear.**
-
-**You've got these new smart devices, consoles, and more.**
-
-**Pray setting up these new smart devices won't be a chore.**
-
-**Dangers of security, but you can relax,**
-
-**I'll make sure you make it through the morning, I've got your backs.**
-
-Alright, that's enough rhyming. Anyways, Christmas morning has just rolled around, and there's lot of new electronic goodies that are under that festive foliage. But there's still a bit that needs to be done helping out your relatives with setting up those new goodies. You'll be uninstalling programs, explaining apps, and speeding up PCs, and making sure that everything is safe and secure. 
+Alright, that's enough rhyming. Anyways, Christmas morning has just rolled around, and there's lot of new electronic goodies that are under that festive foliage. But there's still a bit that needs to be done helping out your relatives with setting up those new goodies. You'll be uninstalling programs, explaining apps, and speeding up PCs, and making sure that everything is safe and secure.
 
 All of your family (and many of your friends) will be looking to you to answer all of their technology questions. But, in a world of data leaks and daily hacks, many of them won't be asking the right questions. I wanted to build this guide to help you pinpoint some of the best ways to help make your relatives more digitally secure and how to help them understand all of it.
 
