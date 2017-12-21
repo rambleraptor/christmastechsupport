@@ -47,7 +47,7 @@ into websites easier and more secure.  The two most popular are [LastPass][lastp
    * Checking account
    * Investment accounts
    * Cell phone
-4. Now comes the -boring- fun part! You have to log into each one of these accounts, change the password to be randomly generated, and then add the username/password to the password manager. Be sure to try logging into the account afterwards. I'd recommend *temporarily* copying the new randomly generated passwords to a text file until you're positive that your password manager has the correct password. Or, for the more extravagant, write it down on paper and then toss it into a nearby fire to ensure nobody will ever see it again. 
+4. Now comes the ~~boring~~ fun part! You have to log into each one of these accounts, change the password to be randomly generated, and then add the username/password to the password manager. Be sure to try logging into the account afterwards. I'd recommend *temporarily* copying the new randomly generated passwords to a text file until you're positive that your password manager has the correct password. Or, for the more extravagant, write it down on paper and then toss it into a nearby fire to ensure nobody will ever see it again. 
 
 5. Install your password manager on tablets + phones. Do not turn on biometric recognition. Be sure to log in to the password manager once to verify everything is working properly.
 
