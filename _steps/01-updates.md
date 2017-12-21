@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Turn on Software Updates
-time: 5 minutes
+time: 5 mins
 ---
 The biggest thing you can do is to update the software on all of your devices. This means computers, phones, tablets, routers, game consoles - pretty much everything with a microchip. Most software updates don't add new features. They fix security bugs. By not updating your software, you're leaving yourself vulnerable to security glitches that hackers are well aware of.
 

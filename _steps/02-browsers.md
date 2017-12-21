@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Update to a Modern Browser
-time: 10 minutes
+time: 10 mins
 ---
 Older browsers are a mess. They're insecure and they don't work well with modern websites, amongst many other issues. If you're not using a modern browser (Firefox, Chrome, Safari, Edge), you really should be.
 

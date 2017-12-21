@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Communicating Securely
-time: 30 minutes
+time: 30 mins
 ---
 
 There's lots of good options now for being able to talk to your family and friends securely. Old messaging protocols like SMS are insecure, designed in a world without strong encryption. 
