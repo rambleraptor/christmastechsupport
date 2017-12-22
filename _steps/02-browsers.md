@@ -17,11 +17,11 @@ Whenever you're surfing, you want to maximize the amount of HTTPS websites you v
 
 ## Teaching
 * Teach them to look for the green check-box whenever they log into a website or enter any personal information. 
-* Be wary when following links from emails! If your bank asks you to long in and check something, type in the web address yourself, you'll know you're going to the real thing. 
+* Be wary when following links from emails! If your bank asks you to log in and check something, type in the web address yourself, you'll know you're going to the real thing. 
 
 
 ## Avoiding Problems
-Modern browsers do look a little different to Internet Explorer. You might have to relearn how to do some tasks.
+Modern browsers do look a little different than Internet Explorer. You might have to relearn how to do some tasks.
 
 [chrome]: https://www.google.com/chrome/
 [firefox]: https://www.mozilla.org/en-US/firefox/
