@@ -18,7 +18,7 @@ You should make sure that your operating system is updated to the latest version
 * **Linux**: let's be real, if your relatives are using Linux, they don't need your help.
 
 ## Warnings!
-* Not every update can be automatically updated. If you're on a iOS or Android device, make a calendar update to remind you to check for updates every month or so.
+* Not every update can be automatically updated. If you're on an iOS or Android device, make a calendar update to remind you to check for updates every month or so.
 
 * Companies have a bad habit of adding features + security patches in the same update. That means that your newly secure device might act a little bit different. You (or your relatives) might have to incur some one-time learning to figure out how to do old tasks. It's annoying, I know.
 

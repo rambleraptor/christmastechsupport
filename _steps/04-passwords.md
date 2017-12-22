@@ -64,8 +64,7 @@ into websites easier and more secure.  The two most popular are [LastPass][lastp
 
 
 [^password-study]: https://keepersecurity.com/assets/pdf/Keeper-Mobile-Survey-Infographic.pdf
-[^pm-manager]: There's a whole bunch of very, very bad password managers out
-  there that can make you less secure. Be sure that you understand why your password manager is secure. Most password managers have security white-pages and you can Google around for basic primers on password manager security to know what to look for.
+[^pm-manager]: There's a whole bunch of very, very bad password managers out there that can make you less secure. Be sure that you understand why your password manager is secure. Most password managers have security white-pages and you can Google around for basic primers on password manager security to know what to look for.
 [^datagenics]: https://www.datagenetics.com/blog/september32012/
 
 [hibp]: https://haveibeenpwned.com/
